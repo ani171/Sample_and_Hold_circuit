@@ -1,1 +1,3 @@
 # sample_hold
+
+This project delves into the realm of digital communications, specifically focusing on the design and implementation of a Sample and Hold Circuit. Emphasizing the crucial role of this circuit in signal processing within digital communication systems, the project explores its applications and performance characteristics. By examining the fundamental principles of the Sample and Hold Circuit in the context of digital communications, the project aims to contribute insights into its significance in accurately capturing and preserving analog signals for subsequent processing within digital communication frameworks.
